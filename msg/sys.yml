@@ -1,0 +1,58 @@
+# Reaction Commands
+
+- id: 0x1E4C
+  en: "Move Center"
+
+- id: 0x3EA4
+  en: "Firaza"
+
+- id: 0x3EA5
+  en: "Blizzaza"
+
+- id: 0x4BE4
+  en: "Firaza"
+
+- id: 0x4BE5
+  en: "Blizzaza"
+
+
+- id: 0x500D
+  en: "Protera"
+
+- id: 0x500F
+  en: "Protega"
+
+- id: 0x3B94
+  en: "Faith"
+
+# Limits
+
+- id: 0x4311
+  en: "Arcanum"
+
+- id: 0x4313
+  en: "Ragnarok"
+
+- id: 0x4E8D
+  en: "Sonic Blade"
+
+- id: 0x4E8F
+  en: "Ars Arcanum"
+
+- id: 0x4E93
+  en: "Ragnarok"
+
+- id: 0x4EF6
+  en: "Ragnarok"
+
+- id: 0x4EFE
+  en: "Sonic Blade"
+
+- id: 0x4F00
+  en: "Blast"
+
+- id: 0x4F01
+  en: "Ars Arcanum"
+
+- id: 0x4F03
+  en: "Finish"

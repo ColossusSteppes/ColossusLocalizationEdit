@@ -1,0 +1,63 @@
+# Enemies
+
+- id: 0x2EF0
+  en: "Watcher"
+
+# Limits
+
+- id: 0x4AF6
+  en: "\"Valor\" Genie/Sonic Blade"
+
+- id: 0x4B6A
+  en: "\"Master\" Genie/Ars Arcanum"
+
+- id: 0x4B6B
+  en: "Attack flow
+
+    {:reset} Arcanum
+
+    {:reset}   ⤷Bash
+
+
+    Notes:
+
+    Arcanum continuously attacks all
+
+    nearby enemies.
+
+
+    If Genie's and Sora's Bash is successful,
+
+    far enemies will be attacked as well.
+
+
+    Execute the attacks quickly, or the limit
+
+    will be canceled!"
+
+- id: 0x4B6C
+  en: "\"Final\" Genie/Ragnarok"
+
+- id: 0x4B6D
+  en: "Attack flow
+
+    {:reset} Ragnarok
+
+    {:reset}   ⤷Impact
+
+
+    Notes:
+
+    Sora can move while executing Ragnarok,
+
+    an attack that unleashes the Keyblade's
+
+    power, so grab nearby enemies!
+
+
+    Follow up with Impact to finish the battle.
+
+
+    Execute the attacks quickly, or the limit
+
+    will be canceled!"
